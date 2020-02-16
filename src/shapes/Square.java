@@ -10,5 +10,8 @@ public class Square {
 	public Square(double length){
 		this.length = length;
 	}
+        public double getSquareArea(){
+            return length * length;
+        }
 
 }
