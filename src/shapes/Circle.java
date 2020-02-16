@@ -17,7 +17,9 @@ public class Circle {
     }
 
 	public Circle() {
-		// TODO - implement Circle.Circle
-		throw new UnsupportedOperationException();
+		
+	}
+	public Circle(double radius){
+		this.radius = radius;
 	}
 }
