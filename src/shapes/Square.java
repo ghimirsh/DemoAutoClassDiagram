@@ -2,11 +2,13 @@ package shapes;
 
 public class Square {
 
-	private int length;
+	private double length;
 
 	public Square() {
-		// TODO - implement Square.Square
-		throw new UnsupportedOperationException();
+		
+	}
+	public Square(double length){
+		this.length = length;
 	}
 
 }
