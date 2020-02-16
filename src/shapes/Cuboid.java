@@ -22,8 +22,7 @@ public class Cuboid {
     }
 
 	public Cuboid() {
-		// TODO - implement Cuboid.Cuboid
-		throw new UnsupportedOperationException();
+		//default constructor
 	}
 
 	/**
