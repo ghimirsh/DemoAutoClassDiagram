@@ -12,6 +12,9 @@ import shapes.Rectangle;
  * @author Dell
  */
 public class Main {
-    Rectangle rect = new Rectangle(6,4);
-    
+    public static void main(String[]args){
+        Rectangle rect = new Rectangle(6,4);
+        System.out.println(rect.calculateArea());
+    }
+   
 }
